@@ -1,5 +1,5 @@
 package connorglynn.gcu.me.org.mpdcoursework1920;
-
+// connor Glynn S1626555
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
