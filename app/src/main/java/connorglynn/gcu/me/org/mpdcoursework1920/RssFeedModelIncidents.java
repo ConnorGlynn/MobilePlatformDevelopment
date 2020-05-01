@@ -1,5 +1,5 @@
 package connorglynn.gcu.me.org.mpdcoursework1920;
-
+// connor Glynn S1626555
 public class RssFeedModelIncidents {
 
     public String title;
