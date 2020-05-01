@@ -1,5 +1,5 @@
 package connorglynn.gcu.me.org.mpdcoursework1920;
-
+// connor Glynn S1626555
 import java.util.Date;
 
 public class RssFeedModelRoadworks {
