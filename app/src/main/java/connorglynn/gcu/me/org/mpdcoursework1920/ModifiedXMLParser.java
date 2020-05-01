@@ -1,5 +1,5 @@
 package connorglynn.gcu.me.org.mpdcoursework1920;
-
+// Connor Glynn S1626555
 import android.util.Log;
 import android.util.Xml;
 
